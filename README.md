@@ -5,8 +5,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=key-712" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=key-712
-)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=key-712)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=key-712&repo=CircleMe)](https://github.com/anuraghazra/github-readme-stats)-->
 
