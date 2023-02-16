@@ -5,5 +5,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=key-712" />
 </a>
 
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryoctrl&repo=CircleMe)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=key-712&repo=CircleMe)](https://github.com/anuraghazra/github-readme-stats)-->
 
