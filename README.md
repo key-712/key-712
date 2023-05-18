@@ -1,5 +1,7 @@
 # 💫 About Me:
+I am a front-end and back-end web engineer.
 Recently, I have been developing mainly in Typescript.
+I also do personal application development.
 
 
 ## 🌐 Socials:
