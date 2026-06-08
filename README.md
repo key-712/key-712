@@ -34,7 +34,7 @@ Building mobile apps from concept to release — planning, designing, and coding
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=key-712&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=-C,-B)
+![](https://github-trophies.vercel.app/?username=key-712&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=-C,-B)
 
 </div>
 
